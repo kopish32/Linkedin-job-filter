@@ -9,3 +9,7 @@ Then copy and paste the script into the URL field in your browser's new bookmark
 
 ![Chromium](https://user-images.githubusercontent.com/8958543/197421191-5e8c8a91-42bc-4701-8411-b552335d1be9.png)
 
+## TODO
+
+* Deal with dynamic loading filtering
+* Сallback injection on page button
